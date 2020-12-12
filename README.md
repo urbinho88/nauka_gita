@@ -6,3 +6,4 @@ Testy w tym *repozytorium*
 - API smoke test dla logowania i wylogowania
 dsfdsfsdf
 111111
+asdsadfasdf
