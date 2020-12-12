@@ -10,3 +10,4 @@ asdsadfasdf
 
 zmiana 5
 zmiana6
+zmiana 7
