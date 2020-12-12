@@ -7,3 +7,6 @@ Testy w tym *repozytorium*
 dsfdsfsdf
 111111
 asdsadfasdf
+
+zmiana 5
+zmiana6
